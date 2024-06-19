@@ -1,5 +1,5 @@
 <script lang="ts">
-    import profile from "$lib/profile.jpg";
+    import profile from "$lib/profile.png";
     import { Person } from "$lib/skills";
     import Icon  from '@iconify/svelte';
     let isHover = "";

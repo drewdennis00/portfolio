@@ -6,7 +6,7 @@
 
 <svelte:head>
 	<title>Experience</title>
-	<meta name="description" content="Brandon Kauffman's Portfolio" />
+	<meta name="description" content="Drew Dennis's Portfolio" />
 </svelte:head>
 <div
 	class="flex h-[20rem] w-full flex-col items-center justify-center overflow-hidden rounded-md bg-black"
